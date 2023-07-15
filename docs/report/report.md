@@ -208,7 +208,7 @@
 
 ![DFD-TCB](./diagrams/architecture-policy.png?raw=true "Доверенные компоненты на диаграмме потоков данных")
 
-![DFD-update]("practice/docs/report/diagrams/dfd.png?raw=true "Сущности")
+![DFD-update](./diagrams/dfd.png?raw=true "Сущности")
 
 #### Обоснование политики архитектуры *
 
