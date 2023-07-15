@@ -208,7 +208,7 @@
 
 ![DFD-TCB](./diagrams/architecture-policy.png?raw=true "Доверенные компоненты на диаграмме потоков данных")
 
-![DFD-update]("https://github.com/Liraslava/practice/blob/feature/security-events-log/docs/report/diagrams/dfd.png")
+![DFD-update]("./docs/report/diagrams/dfd.png?raw=true"Сущности")
 
 #### Обоснование политики архитектуры *
 
