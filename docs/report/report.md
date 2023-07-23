@@ -181,7 +181,7 @@
 
 #### Негативный сценарий 6. Verifire отправляет ложный результат проверки 
 
-![Негативный сценарий6](./diagrams/docs/report/sd-negative/negative6.png?raw=true "Verifire отправляет ложный результат проверки")
+![Негативный сценарий6](./diagrams/docs/report/sd-negative/negative12.png?raw=true "Verifire отправляет ложный результат проверки")
 
 Результат: недостижение цели безопасности №1: возможно обновление некорректным файлом
 
@@ -221,7 +221,7 @@
 
 ![DFD-TCB](./diagrams/architecture-policy.png?raw=true "Доверенные компоненты на диаграмме потоков данных")
 
-![DFD-update](./diagrams/dfd.png?raw=true "Сущности")
+![DFD-update](./diagrams/dfd2.png?raw=true "Сущности")
 
 #### Обоснование политики архитектуры *
 
