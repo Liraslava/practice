@@ -188,7 +188,7 @@
 
 #### Негативный сценарий 7. Verifire не проверяет данные
 
-![Негативный сценарий7](./diagrams/docs/report/sd-negative/negative.png?raw=true "Verifire не проверяет данные")
+![Негативный сценарий7](./diagrams/docs/report/sd-negative7/negative.png?raw=true "Verifire не проверяет данные")
 
 Результат: недостижение цели безопасности №1: обновление непроверенным файлом
 
