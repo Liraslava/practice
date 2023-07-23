@@ -188,15 +188,11 @@
 
 #### Негативный сценарий 7. Verifire не проверяет данные
 
-![Негативный сценарий7](./diagrams/docs/report/sd-negative7/negative.png?raw=true "Verifire не проверяет данные")
+![Негативный сценарий7](./diagrams/docs/report/sd-negative/negative7.png?raw=true "Verifire не проверяет данные")
 
 Результат: недостижение цели безопасности №1: обновление непроверенным файлом
 
-#### Негативный сценарий 8. Data processor возвращает данные data input
 
-![Негативный сценарий8](./diagrams/docs/report/sd-negative/negative8.png?raw=true "Data processor возвращает данные data input")
-
-Результат: недостижение цели безопасности №2: нарушена однонаправленность передачи данных
 
 #### Сводная таблица негативных сценариев*
 
