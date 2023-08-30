@@ -281,3 +281,5 @@ from params import configurations
 def test_unit_monitor(data):    
     assert data['result'] == check_operation(data['id'], data)
 ```
+
+Запуск тестов: make test test_unit.py или pytest test_unit.py
