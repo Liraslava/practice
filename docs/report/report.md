@@ -269,5 +269,5 @@ def check_payload_seal(payload):
 ```
 
 ## Запуск юнит-теста*
-
+#[unit].(tests/unit/monitor/test_unit_monitor.py)
 
